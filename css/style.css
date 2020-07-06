@@ -1,0 +1,43 @@
+main{
+    background-color: aquamarine;
+    padding: 20px;
+}
+footer{
+    background-color: cadetblue;
+    padding: 20px;
+    text-align: center;
+}
+#imagen1{
+    padding: 15px;
+    border-style:dotted;
+    border-color: red;}
+p{
+    background-color: darkkhaki;
+    padding: 12px;
+}
+p{
+    text-align: center;
+    background-color: lightslategrey;
+}
+main div div p {
+    background-color: yellow;
+}
+p:nth-child(4){
+    color: indigo;
+    font-size: 25px;
+}
+ol{
+    list-style-type: upper-latin;
+    background-color: lightcoral;
+}
+ul{
+    list-style-type: square;
+    background-color: mediumpurple;
+}
+li{
+    font-size: 25px;
+}
+li:hover{
+    color: white;
+}
+
