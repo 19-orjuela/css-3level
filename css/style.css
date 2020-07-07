@@ -8,6 +8,8 @@ footer{
     text-align: center;
 }
 #imagen1{
+    width: 260px;
+    height: 200px;
     padding: 15px;
     border-style:dotted;
     border-color: red;}
